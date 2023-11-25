@@ -1,2 +1,0 @@
-This is the first file created in this demo
-this is the 3rd commit in which this line is added
